@@ -12,3 +12,4 @@ E:\Capgemini_dotnet\Practice Question\obj\Debug\net10.0\refint\Practice Question
 E:\Capgemini_dotnet\Practice Question\obj\Debug\net10.0\Practice Question.pdb
 E:\Capgemini_dotnet\Practice Question\obj\Debug\net10.0\Practice Question.genruntimeconfig.cache
 E:\Capgemini_dotnet\Practice Question\obj\Debug\net10.0\ref\Practice Question.dll
+E:\Capgemini_dotnet\Practice Question\obj\Debug\net10.0\Practice Question.sourcelink.json
