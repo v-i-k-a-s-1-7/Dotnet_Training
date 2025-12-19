@@ -1,0 +1,14 @@
+E:\Capgemini_dotnet\newConsoleApp\obj\Debug\net10.0\newConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Capgemini_dotnet\newConsoleApp\obj\Debug\net10.0\newConsoleApp.AssemblyInfoInputs.cache
+E:\Capgemini_dotnet\newConsoleApp\obj\Debug\net10.0\newConsoleApp.AssemblyInfo.cs
+E:\Capgemini_dotnet\newConsoleApp\obj\Debug\net10.0\newConsoleApp.csproj.CoreCompileInputs.cache
+E:\Capgemini_dotnet\newConsoleApp\bin\Debug\net10.0\newConsoleApp.exe
+E:\Capgemini_dotnet\newConsoleApp\bin\Debug\net10.0\newConsoleApp.deps.json
+E:\Capgemini_dotnet\newConsoleApp\bin\Debug\net10.0\newConsoleApp.runtimeconfig.json
+E:\Capgemini_dotnet\newConsoleApp\bin\Debug\net10.0\newConsoleApp.dll
+E:\Capgemini_dotnet\newConsoleApp\bin\Debug\net10.0\newConsoleApp.pdb
+E:\Capgemini_dotnet\newConsoleApp\obj\Debug\net10.0\newConsoleApp.dll
+E:\Capgemini_dotnet\newConsoleApp\obj\Debug\net10.0\refint\newConsoleApp.dll
+E:\Capgemini_dotnet\newConsoleApp\obj\Debug\net10.0\newConsoleApp.pdb
+E:\Capgemini_dotnet\newConsoleApp\obj\Debug\net10.0\newConsoleApp.genruntimeconfig.cache
+E:\Capgemini_dotnet\newConsoleApp\obj\Debug\net10.0\ref\newConsoleApp.dll

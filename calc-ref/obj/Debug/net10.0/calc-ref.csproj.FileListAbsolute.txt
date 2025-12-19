@@ -1,0 +1,4 @@
+E:\Capgemini_dotnet\calc-ref\obj\Debug\net10.0\calc-ref.GeneratedMSBuildEditorConfig.editorconfig
+E:\Capgemini_dotnet\calc-ref\obj\Debug\net10.0\calc-ref.AssemblyInfoInputs.cache
+E:\Capgemini_dotnet\calc-ref\obj\Debug\net10.0\calc-ref.AssemblyInfo.cs
+E:\Capgemini_dotnet\calc-ref\obj\Debug\net10.0\calc-ref.csproj.CoreCompileInputs.cache
