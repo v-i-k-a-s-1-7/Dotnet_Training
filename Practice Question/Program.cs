@@ -4,6 +4,8 @@
 using static Question1;
 using static Question2;
 using static Question3;
+using static Question5;
+
 
 public class Entry{
 
@@ -18,17 +20,31 @@ public class Entry{
         #endregion
 
         #region question 2
-        int a = (int.TryParse(Console.ReadLine(), out a) ? a : 0);
-        int b = (int.TryParse(Console.ReadLine(), out b) ? b : 0);
-        int c = (int.TryParse(Console.ReadLine(), out c) ? c : 0);
+        // int a = (int.TryParse(Console.ReadLine(), out a) ? a : 0);
+        // int b = (int.TryParse(Console.ReadLine(), out b) ? b : 0);
+        // int c = (int.TryParse(Console.ReadLine(), out c) ? c : 0);
 
-        Console.WriteLine("The Largest Number is " + Largest(a,b,c));
+        // Console.WriteLine("The Largest Number is " + Largest(a,b,c));
         #endregion
         
-        #region question3
+        #region question 3
         // int year = (int.TryParse(Console.ReadLine(), out year)) ? year : 0;
 
         // Console.WriteLine("Year " + year + " is " + (IsLeapYear(year) ? "Leap Year" : "Not a Leap Year") );
+       #endregion
+
+       #region question 5
+        // Input Marks 
+        Console.WriteLine("Enter Maths Marks: ");
+        int Mmarks = (int.TryParse(Console.ReadLine(), out Mmarks) ? Mmarks : 0);
+        
+        Console.WriteLine("Enter Physics Marks: ");
+        int Pmarks = (int.TryParse(Console.ReadLine(), out Pmarks) ? Pmarks : 0);
+        
+        Console.WriteLine("Enter Chemistry Marks: ");
+        int Cmarks = (int.TryParse(Console.ReadLine(), out Cmarks) ? Cmarks : 0);
+
+        Console.WriteLine((IsEligible(Mmarks,Pmarks,Cmarks))? "Yes They are Eligible" : "NO, they are not eligible");
        #endregion
         
     }
