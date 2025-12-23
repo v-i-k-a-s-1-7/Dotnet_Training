@@ -1,6 +1,9 @@
 namespace OopsSession.Constructor { 
 
-    
+   
+    /// <summary>
+    /// Represents a bank account with an account number and account holder name.
+    /// </summary>
     public class Account
     {
         public int AccountNumber { get; set; }
@@ -17,6 +20,11 @@ namespace OopsSession.Constructor {
         {
             Console.WriteLine($"Account Number: {AccountNumber}, Account Holder Name: {AccountHolderName}");
         }
+
+    }
+
+    public class SalesAccount : Account
+    {
 
     }
 }

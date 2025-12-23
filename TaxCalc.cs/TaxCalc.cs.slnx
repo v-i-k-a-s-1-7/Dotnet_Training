@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../Employee.cs/Employee.cs.csproj" />
+  <Project Path="TaxCalc.cs.csproj" />
+</Solution>

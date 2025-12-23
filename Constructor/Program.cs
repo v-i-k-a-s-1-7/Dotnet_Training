@@ -16,9 +16,7 @@ public class Program{
         Account account = new Account(12345, "vikas");//{ 12345, "vikas" };
         account.GetAccountDetails();
 
-
-
-
+        Console.WriteLine(
 
     }
 

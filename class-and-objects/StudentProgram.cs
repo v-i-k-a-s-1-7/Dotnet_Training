@@ -8,5 +8,7 @@ class Student{
         StudentID = studentID;
         StudentName = studentName;
         StudentProgram = studentProgram;
+
+        
     }
 }
