@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../Payment/Payment.csproj" />
+  <Project Path="UpiPayment.csproj" />
+</Solution>
