@@ -5,6 +5,7 @@ using static Question1;
 using static Question2;
 using static Question3;
 using static Question5;
+using static Question6;
 
 
 public class Entry{
@@ -35,18 +36,27 @@ public class Entry{
 
        #region question 5
         // Input Marks 
-        Console.WriteLine("Enter Maths Marks: ");
-        int Mmarks = (int.TryParse(Console.ReadLine(), out Mmarks) ? Mmarks : 0);
+      //   Console.WriteLine("Enter Maths Marks: ");
+      //   int Mmarks = (int.TryParse(Console.ReadLine(), out Mmarks) ? Mmarks : 0);
         
-        Console.WriteLine("Enter Physics Marks: ");
-        int Pmarks = (int.TryParse(Console.ReadLine(), out Pmarks) ? Pmarks : 0);
+      //   Console.WriteLine("Enter Physics Marks: ");
+      //   int Pmarks = (int.TryParse(Console.ReadLine(), out Pmarks) ? Pmarks : 0);
         
-        Console.WriteLine("Enter Chemistry Marks: ");
-        int Cmarks = (int.TryParse(Console.ReadLine(), out Cmarks) ? Cmarks : 0);
+      //   Console.WriteLine("Enter Chemistry Marks: ");
+      //   int Cmarks = (int.TryParse(Console.ReadLine(), out Cmarks) ? Cmarks : 0);
 
-        Console.WriteLine((IsEligible(Mmarks,Pmarks,Cmarks))? "Yes They are Eligible" : "NO, they are not eligible");
+      //   Console.WriteLine((IsEligible(Mmarks,Pmarks,Cmarks))? "Yes They are Eligible" : "NO, they are not eligible");
        #endregion
-        
+
+       #region question 6
+
+       // Input Units 
+      Console.WriteLine("Enter your bill units");
+      int units = (int.TryParse(Console.ReadLine(), out units) ? units : 0);
+      double bill = Math.Round(CalculateBill(units), 2);
+      Console.WriteLine($"Your Bill is   {bill} ");
+
+      #endregion  
     }
 
 }
